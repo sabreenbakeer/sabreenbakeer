@@ -1,0 +1,9 @@
+{
+	"name": "SQ1-ADF",
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5f336fd9-8834-43f1-b6f9-ff0354186424",
+		"tenantId": "c337a08f-66f5-494f-8436-9315283f5160"
+	}
+}
